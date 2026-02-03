@@ -58,11 +58,23 @@
         <mxCell id="qWyENrvTl-wju0-B_pvh-13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" value="input 14?" vertex="1">
           <mxGeometry height="80" width="100" x="10" y="190" as="geometry" />
         </mxCell>
+        <mxCell id="dira-fNHH836c7C-HOLm-3" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qWyENrvTl-wju0-B_pvh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dira-fNHH836c7C-HOLm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qWyENrvTl-wju0-B_pvh-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="Correct!" vertex="1">
           <mxGeometry height="40" width="120" y="330" as="geometry" />
         </mxCell>
         <mxCell id="qWyENrvTl-wju0-B_pvh-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dira-fNHH836c7C-HOLm-2" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dira-fNHH836c7C-HOLm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dira-fNHH836c7C-HOLm-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="40" width="110" x="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dira-fNHH836c7C-HOLm-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="150" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
